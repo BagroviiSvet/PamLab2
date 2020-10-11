@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="button">Button</string>
+    <string name="add">Добавить</string>
+    <string name="саси">Напоминание</string>
+    <string name="Save">Сохранить</string>
+    <string name="remove">Удалить</string>
+    <string name="update">Обновить</string>
+    <string name="change">Изменить</string>
+</resources>
